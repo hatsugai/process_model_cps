@@ -1,0 +1,5 @@
+_build
+*.exe
+*.dot
+*.pdf
+*.svg
